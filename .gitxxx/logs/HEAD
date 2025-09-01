@@ -1,0 +1,36 @@
+0000000000000000000000000000000000000000 977c4184ad9af4bf3337a07cc32bd585ad4d592b Fernando Mastropietro <fernando@Mastrosoft.(none)> 1696627778 -0300	clone: from https://github.com/ohmybash/oh-my-bash.git
+977c4184ad9af4bf3337a07cc32bd585ad4d592b 977c4184ad9af4bf3337a07cc32bd585ad4d592b Fernando Mastropietro <femastro@gmail.com> 1697272313 -0300	checkout: moving from master to develop
+977c4184ad9af4bf3337a07cc32bd585ad4d592b 977c4184ad9af4bf3337a07cc32bd585ad4d592b Fernando Mastropietro <femastro@gmail.com> 1697272349 -0300	checkout: moving from develop to develop2
+977c4184ad9af4bf3337a07cc32bd585ad4d592b a376369bb083b5b3a607b675dbe80cb00d54cd45 Fernando Mastropietro <femastro@gmail.com> 1697272447 -0300	commit: ultima modificacion de cupcake
+a376369bb083b5b3a607b675dbe80cb00d54cd45 977c4184ad9af4bf3337a07cc32bd585ad4d592b Fernando Mastropietro <femastro@gmail.com> 1697272550 -0300	checkout: moving from develop2 to master
+977c4184ad9af4bf3337a07cc32bd585ad4d592b a376369bb083b5b3a607b675dbe80cb00d54cd45 Fernando Mastropietro <femastro@gmail.com> 1697272626 -0300	checkout: moving from master to develop2
+a376369bb083b5b3a607b675dbe80cb00d54cd45 cb0ca49e580797fec15ac69497776e1725a37bf5 Fernando Mastropietro <femastro@gmail.com> 1697272691 -0300	commit: --amend
+cb0ca49e580797fec15ac69497776e1725a37bf5 977c4184ad9af4bf3337a07cc32bd585ad4d592b Fernando Mastropietro <femastro@gmail.com> 1697272859 -0300	checkout: moving from develop2 to develop
+977c4184ad9af4bf3337a07cc32bd585ad4d592b cb0ca49e580797fec15ac69497776e1725a37bf5 Fernando Mastropietro <femastro@gmail.com> 1697272865 -0300	merge develop2: Fast-forward
+cb0ca49e580797fec15ac69497776e1725a37bf5 b91e284eda58e4a02f1ce4936b468cf4201a497b Fernando Mastropietro <femastro@gmail.com> 1697590628 -0300	commit: cambio de color al user
+b91e284eda58e4a02f1ce4936b468cf4201a497b 977c4184ad9af4bf3337a07cc32bd585ad4d592b Fernando Mastropietro <femastro@gmail.com> 1697590751 -0300	checkout: moving from develop to master
+977c4184ad9af4bf3337a07cc32bd585ad4d592b b91e284eda58e4a02f1ce4936b468cf4201a497b Fernando Mastropietro <femastro@gmail.com> 1697590761 -0300	merge develop: Fast-forward
+b91e284eda58e4a02f1ce4936b468cf4201a497b cb0ca49e580797fec15ac69497776e1725a37bf5 Fernando Mastropietro <femastro@gmail.com> 1697591036 -0300	checkout: moving from master to develop2
+cb0ca49e580797fec15ac69497776e1725a37bf5 b91e284eda58e4a02f1ce4936b468cf4201a497b Fernando Mastropietro <femastro@gmail.com> 1697591044 -0300	merge master: Fast-forward
+b91e284eda58e4a02f1ce4936b468cf4201a497b b91e284eda58e4a02f1ce4936b468cf4201a497b Fernando Mastropietro <femastro@gmail.com> 1697591392 -0300	checkout: moving from develop2 to master
+b91e284eda58e4a02f1ce4936b468cf4201a497b b91e284eda58e4a02f1ce4936b468cf4201a497b Fernando Mastropietro <femastro@gmail.com> 1697591410 -0300	checkout: moving from master to develop2
+b91e284eda58e4a02f1ce4936b468cf4201a497b b28264a11ff12edc68e62137bb2d9efcc64f9e44 Fernando Mastropietro <femastro@gmail.com> 1697892238 -0300	pull --rebase --stat origin master (start): checkout b28264a11ff12edc68e62137bb2d9efcc64f9e44
+b28264a11ff12edc68e62137bb2d9efcc64f9e44 b91e284eda58e4a02f1ce4936b468cf4201a497b Fernando Mastropietro <femastro@gmail.com> 1697892238 -0300	rebase (abort): updating HEAD
+b91e284eda58e4a02f1ce4936b468cf4201a497b 6bb07f23ff25f2372bd849f91024daffdaff3926 Fernando Mastropietro <femastro@gmail.com> 1697892331 -0300	pull: Fast-forward
+6bb07f23ff25f2372bd849f91024daffdaff3926 b28264a11ff12edc68e62137bb2d9efcc64f9e44 Fernando Mastropietro <femastro@gmail.com> 1699730062 -0300	pull --rebase --stat origin master (start): checkout b28264a11ff12edc68e62137bb2d9efcc64f9e44
+b28264a11ff12edc68e62137bb2d9efcc64f9e44 6bb07f23ff25f2372bd849f91024daffdaff3926 Fernando Mastropietro <femastro@gmail.com> 1699730062 -0300	rebase (abort): updating HEAD
+6bb07f23ff25f2372bd849f91024daffdaff3926 b28264a11ff12edc68e62137bb2d9efcc64f9e44 Fernando Mastropietro <femastro@gmail.com> 1702748933 -0300	pull --rebase --stat origin master (start): checkout b28264a11ff12edc68e62137bb2d9efcc64f9e44
+b28264a11ff12edc68e62137bb2d9efcc64f9e44 6bb07f23ff25f2372bd849f91024daffdaff3926 Fernando Mastropietro <femastro@gmail.com> 1702748933 -0300	rebase (abort): updating HEAD
+6bb07f23ff25f2372bd849f91024daffdaff3926 b28264a11ff12edc68e62137bb2d9efcc64f9e44 Fernando Mastropietro <femastro@gmail.com> 1709069053 -0300	pull --rebase --stat origin master (start): checkout b28264a11ff12edc68e62137bb2d9efcc64f9e44
+b28264a11ff12edc68e62137bb2d9efcc64f9e44 6bb07f23ff25f2372bd849f91024daffdaff3926 Fernando Mastropietro <femastro@gmail.com> 1709069053 -0300	rebase (abort): updating HEAD
+6bb07f23ff25f2372bd849f91024daffdaff3926 b28264a11ff12edc68e62137bb2d9efcc64f9e44 Fernando Mastropietro <femastro@gmail.com> 1712630918 -0300	pull --rebase --stat origin master (start): checkout b28264a11ff12edc68e62137bb2d9efcc64f9e44
+b28264a11ff12edc68e62137bb2d9efcc64f9e44 6bb07f23ff25f2372bd849f91024daffdaff3926 Fernando Mastropietro <femastro@gmail.com> 1712630919 -0300	rebase (abort): updating HEAD
+6bb07f23ff25f2372bd849f91024daffdaff3926 b28264a11ff12edc68e62137bb2d9efcc64f9e44 Fernando Mastropietro <femastro@gmail.com> 1714323759 -0300	pull --rebase --stat origin master (start): checkout b28264a11ff12edc68e62137bb2d9efcc64f9e44
+b28264a11ff12edc68e62137bb2d9efcc64f9e44 6bb07f23ff25f2372bd849f91024daffdaff3926 Fernando Mastropietro <femastro@gmail.com> 1714323759 -0300	rebase (abort): updating HEAD
+6bb07f23ff25f2372bd849f91024daffdaff3926 6bb07f23ff25f2372bd849f91024daffdaff3926 Fernando Mastropietro <femastro@gmail.com> 1756754191 -0300	checkout: moving from develop2 to main
+6bb07f23ff25f2372bd849f91024daffdaff3926 0000000000000000000000000000000000000000 Fernando Mastropietro <femastro@gmail.com> 1756754209 -0300	Branch: renamed refs/heads/main to refs/heads/main
+6bb07f23ff25f2372bd849f91024daffdaff3926 6bb07f23ff25f2372bd849f91024daffdaff3926 Fernando Mastropietro <femastro@gmail.com> 1756754209 -0300	Branch: renamed refs/heads/main to refs/heads/main
+6bb07f23ff25f2372bd849f91024daffdaff3926 6bb07f23ff25f2372bd849f91024daffdaff3926 Fernando Mastropietro <femastro@gmail.com> 1756754491 -0300	checkout: moving from main to master
+6bb07f23ff25f2372bd849f91024daffdaff3926 0000000000000000000000000000000000000000 Fernando Mastropietro <femastro@gmail.com> 1756754737 -0300	Branch: renamed refs/heads/master to refs/heads/master
+6bb07f23ff25f2372bd849f91024daffdaff3926 6bb07f23ff25f2372bd849f91024daffdaff3926 Fernando Mastropietro <femastro@gmail.com> 1756754737 -0300	Branch: renamed refs/heads/master to refs/heads/master
+6bb07f23ff25f2372bd849f91024daffdaff3926 f865a6be1df24bf3ad76b2d4eb2686b38496b6b0 Fernando Mastropietro <femastro@gmail.com> 1756754830 -0300	commit: First Commit
