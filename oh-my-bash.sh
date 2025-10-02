@@ -158,6 +158,7 @@ elif [[ $OSH_THEME ]]; then
   _omb_module_require_theme "$OSH_THEME"
 fi
 
+
 if [[ $PROMPT ]]; then
   export PS1='\['$PROMPT'\]'
 fi
